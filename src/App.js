@@ -6,6 +6,7 @@ import FeaturedMovie from './components/FeaturedMovie';
 import Header from './components/Header';
 
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default () => {
   const [movieList, setMovieList] = useState([]);
   const [featuredData, setfeaturedData] = useState(null);
