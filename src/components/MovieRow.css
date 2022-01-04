@@ -12,9 +12,9 @@
   transition: all ease 0.5s;
 }
 .movieRow--item {
-   display: inline-block;
-   width: 150px;
-   cursor: pointer;
+  display: inline-block;
+  width: 150px;
+  cursor: pointer;
 }
 .movieRow--item img {
   width: 100%;
@@ -51,7 +51,7 @@
   opacity: 1;
 }
 
-@media (max-width:700px) {
+@media (max-width: 700px) {
   .movieRow--left,
   .movieRow--right {
     opacity: 1;

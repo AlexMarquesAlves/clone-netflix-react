@@ -62,7 +62,7 @@ export default () => {
         </span>{' '}
         por <strong>Leonardo Marquês</strong>
         <br />
-        Direitos de imagem para Netflix <br />
+        Direitos de imagem para Netflix & Themoviedb <br />
         Dados pegos do site Themoviedb.org
       </footer>
 
